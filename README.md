@@ -1,5 +1,13 @@
 # ZZGameMaker
 Projet de fin d'études (sept 2019 - mars 2020)
+ISIMA - Institut d'Informatique
+Université Clermont-Auvergne
 
-Ce projet est en cours de réalisation et le code est stocké sur une autre page GitLab.
-Il sera publié ici losrqu'il sera terminé.
+Projet de fin d'études
+Créateur/éditeur de jeux vidéo
+
+
+Ce projet a été réalisé avec l'aide de Sylvain Bourgea.
+Il représente environ 120h de travail personnel chacun.
+
+
